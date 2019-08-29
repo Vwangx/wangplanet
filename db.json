@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "login": "kirukatofu",
+      "password": "122kirukatofu",
+      "mail": "kirukatofu@gmail.com",
+      "pl1": false,
+      "pl2": false,
+      "pl3": false,
+      "pl4": false,
+      "pl5": false,
+      "pl6": false,
+      "pl7": false,
+      "pl8": false,
+      "pl9": false,
+      "id": 2
+    },
+    {
+      "login": "vwang122",
+      "password": "122kirukatofu",
+      "mail": "vwangx122@gmail.com",
+      "pl1": false,
+      "pl2": false,
+      "pl3": false,
+      "pl4": false,
+      "pl5": false,
+      "pl6": false,
+      "pl7": false,
+      "pl8": false,
+      "pl9": false,
+      "id": 3
+    },
+    {
+      "login": "itswang122",
+      "password": "122kirukatofu",
+      "mail": "vwangx122@gmail.com",
+      "pl1": 0,
+      "pl2": 0,
+      "pl3": 0,
+      "pl4": 0,
+      "pl5": 0,
+      "pl6": 0,
+      "pl7": 0,
+      "pl8": 0,
+      "pl9": 0,
+      "id": 4
+    },
+    {
+      "login": "122kirukato",
+      "password": "122kirukatofu",
+      "mail": "122kiru@gmail.com",
+      "pl1": "1",
+      "pl2": "1",
+      "pl3": "1",
+      "pl4": 0,
+      "pl5": "1",
+      "pl6": "1",
+      "pl7": 0,
+      "pl8": "1",
+      "pl9": "1",
+      "id": 5
+    },
+    {
+      "login": "itsvwangx",
+      "password": "122kirukatofu",
+      "mail": "vwangx122@gmail.com",
+      "pl1": 0,
+      "pl2": 0,
+      "pl3": 0,
+      "pl4": "1",
+      "pl5": 0,
+      "pl6": 0,
+      "pl7": 0,
+      "pl8": 0,
+      "pl9": 0,
+      "id": 6
+    }
+  ]
+}
